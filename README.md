@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Inigo2208
-- 👀 I’m interested in everything related to Science | Astronomy | Weather Predicction | Climate Science |
+- 👀 I’m interested in everything related to Science | Astronomy | Weather Predicction | Climate Science | Earth System Models | Machine Learning (ML)
 - 🌱 My work area targets: Fluid Mechanics, Aerodynamics, Hydrodynamics, Computational Fluid Dynamics (CFD)
 - 🌱 I’m currently learning deep neural networks (DNNs) applied to Computational Fluid Dynamics (CFD)
 - 💞️ I’m looking to deepen into quantum computing
