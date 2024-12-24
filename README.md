@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Inigo2208
-- 👀 I’m interested in everything related to science
-- 🌱 I’m currently learning quantum computing
-- 💞️ I’m looking to collaborate on quantum computing coding in python
+- 👀 I’m interested in everything related to Science | Astronomy | Weather Predicction | Climate Science |
+- 🌱 My work area targets: Fluid Mechanics, Aerodynamics, Hydrodynamics, Computational Fluid Dynamics (CFD)
+- 🌱 I’m currently learning deep neural networks (DNNs) applied to Computational Fluid Dynamics (CFD)
+- 💞️ I’m looking to deepen into quantum computing
 - 📫 How to reach me: inigoerrasti@hotmail.com
-- 😄 Pronouns: Errasti Arrieta
+- 😄 Likes: Travelling around the globe!
 - ⚡ Fun fact: Le Tour de France 2024
 
 <!---
